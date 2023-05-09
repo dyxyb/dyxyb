@@ -1,9 +1,8 @@
 ### Hi there 👋
 
-<!--
-**dyxyb/dyxyb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ [![GitHub](https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub&labelColor=2C2E43&color=2C2E43&query=%24.count&url=https%3A%2F%2Fapi.swo.moe%2Fstats%2Fgithub%2Fdyxyb)](https://github.com/dyxyb)
 
-Here are some ideas to get you started:
+**About me**:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,4 +12,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+ <!-- [![dyxyb's GitHub stats](https://github-readme-stats.vercel.app/api?username=dyxyb)]() -->
